@@ -13,10 +13,11 @@ h1 {
 
 #title {
   background-color: #ff4c68;
+  height: 50rem;
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 1.5% 15%;
 }
 
 .fa-brands {
@@ -41,4 +42,29 @@ h1 {
 .download-btn {
   margin-top: 1.5rem;
   margin-right: 1.5rem;
+}
+
+.features-container {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.feature-icons {
+  color: #EF8172;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.feature-icons:hover {
+  color: #FF4D69;
+}
+
+.feature-paragraph {
+  color: #928C7E;
+}
+
+@media (max-width:1100px) {
+  .title-image {
+    display: none;
+  }
 }
