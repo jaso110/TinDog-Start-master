@@ -78,9 +78,13 @@ h2 {
 }
 
 .testimonial-image {
-  width: 12%;
+  width: 10rem;
   border-radius: 100%;
   margin: 2rem;
+}
+
+.testimonial-text {
+  padding-bottom: 4rem;
 }
 
 #press {
