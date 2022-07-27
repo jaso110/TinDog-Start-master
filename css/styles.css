@@ -1,11 +1,14 @@
+body {
+  font-family: Montserrat;
+}
+
 h1 {
   color: #F5F5F5;
-  font-family: Montserrat;
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 300;
-  margin-top: 100px;
-  margin-bottom: 50px;
+  margin-top: 5rem;
+  margin-bottom: 1.5rem;
 }
 
 #title {
@@ -17,24 +20,25 @@ h1 {
 }
 
 .fa-brands {
-  padding-right: 10px;
+  padding-right: 0.75rem;
 }
 
 .brand-text {
+  font-family: Ubuntu;
   font-size: 2.5rem;
 }
 
 .nav-item {
-  padding-right: 75px;
+  padding-right: 4rem;
 }
 
 .title-image {
-  margin-top: 100px;
+  margin-top: 5rem;
   height: 60%;
   transform: rotate(20deg);
 }
 
-.btn {
-  margin-top: 25px;
-  margin-right: 25px;
+.download-btn {
+  margin-top: 1.5rem;
+  margin-right: 1.5rem;
 }
