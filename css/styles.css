@@ -97,6 +97,42 @@ h2 {
   padding: 0 2rem 2rem 2rem;
 }
 
+#pricing {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.pricing-hidden {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.pricing-h2 {
+  color: #000;
+}
+
+.pricing-paragraph {
+  color: #928C7E;
+  padding-bottom: 2rem;
+}
+
+#cta {
+  color: #F5F5F5;
+  padding: 7% 15%;
+  background-color: #EF8172;
+  text-align: center;
+}
+
+.cta-h3 {
+  padding-bottom: 2rem;
+}
+
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
+
 @media (max-width:1100px) {
   .title-image {
     display: none;
